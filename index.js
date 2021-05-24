@@ -1,7 +1,6 @@
 'use strict'
 // !Элементы таймера
 const refs = {
-  timerEl: document.querySelector("#timer-1"),
   daysEl: document.querySelector('[data-value="days"]'),
   hoursEl: document.querySelector('[data-value="hours"]'),
   minsEl: document.querySelector('[data-value="mins"]'),
